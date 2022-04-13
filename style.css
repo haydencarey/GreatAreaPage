@@ -1,0 +1,70 @@
+*{
+    background-color: rgb(177, 240, 240);
+}
+h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.title{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border: 3px solid #340080ed;
+    padding: 10px;
+    font-family: 'bd geminis';
+   font-size: 300%;
+}
+
+.mylove{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 25px;
+}
+
+.scubaphoto{
+    width: 35%;
+    height: auto;
+    display: block;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    width: 35%;
+    margin: auto;
+}
+
+figure {
+    /* float: right; */
+    /* width: 30%; */
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+ 
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+  figure2 {
+    /* float: right; */
+    /* width: 30%; */
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+ 
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+  figure3 {
+    /* float: right; */
+    /* width: 30%; */
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+ 
+    margin: 0.5em;
+    padding: 0.5em;
+  }
